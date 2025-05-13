@@ -16,9 +16,6 @@ A simple Java-based diary application to create, view, and search entries with l
 
 ## 🛠️ Installation
 
-### Prerequisites
-- **Java 17+** ([Download JDK](https://adoptium.net/))
-- (Optional) **WiX Toolset** (for `.exe` builds) ([Download WiX](https://wixtoolset.org/))
 
 ### Steps
 1. **Download the JAR**:
